@@ -1,0 +1,22 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Project Specific
+logs/*.json
+logs/*.log
+config/config.ini
+
+# Data (Excluding samples if needed, but often CSVs are kept if they are templates)
+# data/*.csv 

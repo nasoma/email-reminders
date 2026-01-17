@@ -1,0 +1,10 @@
+{
+  "practice_reminder": {
+    "subject": "⚽ Practice Reminder - TOMORROW at [TIME]",
+    "body": "Hi [PARENT_NAME],\n\nThis is a reminder that we have football practice TOMORROW.\n\n📅 Date: [DATE] (Tomorrow)\n⏰ Time: [TIME]\n📍 Location: [LOCATION][NOTES]\n\nSee you at practice!\n\nBest regards,\n[COACH_NAME]\nYouth Football Team"
+  },
+  "game_reminder": {
+    "subject": "⚽ GAME DAY - TODAY at [TIME]",
+    "body": "Hi [PARENT_NAME],\n\n🎉 TODAY is GAME DAY!\n\n🏈 Date: [DATE] (Today)\n⏰ Time: [TIME]\n📍 Location: [LOCATION][NOTES]\n\nPlease arrive 45 minutes early for warm-up.\n\nLet's have a great game!\n\nGo Team!\n[COACH_NAME]\nYouth Football Team"
+  }
+}

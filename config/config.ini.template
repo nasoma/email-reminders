@@ -1,0 +1,16 @@
+[Email]
+# Email configuration, you will set this up on Google.
+smtp_server=smtp.gmail.com
+smtp_port=587
+sender_email=your_email@gmail.com
+sender_password=your_app_password
+coach_name=Coach Mike
+
+[Files]
+# File paths
+schedule_file=data/schedule.csv
+contacts_file=data/contacts.csv
+email_templates=config/email_templates.json
+
+[Settings]
+timezone=America/New_York
