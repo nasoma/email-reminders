@@ -13,7 +13,7 @@ Automated email reminder system for practice and game schedules. This script par
 1. **Clone the repository**:
    ```bash
    git clone <your-repository-url>
-   cd email-reminders-2
+   cd email-reminders
    ```
 
 2. **Set up virtual environment**:
